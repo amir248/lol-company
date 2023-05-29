@@ -1,4 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
-site: https://amir248.io/lol-company/
+Site: https://amir248.github.io/lol-company/
+Sitemap: https://amir248.github.io/lol-company/sitemap.xml
 User-agent: *
 Disallow:
