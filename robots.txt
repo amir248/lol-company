@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+site: https://amir248.io/lol-company/
 User-agent: *
 Disallow:
