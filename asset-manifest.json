@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lol-company/static/css/main.154ff3c3.css",
-    "main.js": "/lol-company/static/js/main.ffcf4ca4.js",
+    "main.js": "/lol-company/static/js/main.217cfe5b.js",
     "static/js/787.e707f98a.chunk.js": "/lol-company/static/js/787.e707f98a.chunk.js",
     "static/media/DSC_7562.JPG": "/lol-company/static/media/DSC_7562.622b62b7068d6899c54e.JPG",
     "static/media/DSC_7540.JPG": "/lol-company/static/media/DSC_7540.1b532ccaa672844f71a1.JPG",
@@ -16,11 +16,11 @@
     "static/media/DSC_7533.JPG": "/lol-company/static/media/DSC_7533.ddae44736d0edfff9985.JPG",
     "index.html": "/lol-company/index.html",
     "main.154ff3c3.css.map": "/lol-company/static/css/main.154ff3c3.css.map",
-    "main.ffcf4ca4.js.map": "/lol-company/static/js/main.ffcf4ca4.js.map",
+    "main.217cfe5b.js.map": "/lol-company/static/js/main.217cfe5b.js.map",
     "787.e707f98a.chunk.js.map": "/lol-company/static/js/787.e707f98a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.154ff3c3.css",
-    "static/js/main.ffcf4ca4.js"
+    "static/js/main.217cfe5b.js"
   ]
 }
